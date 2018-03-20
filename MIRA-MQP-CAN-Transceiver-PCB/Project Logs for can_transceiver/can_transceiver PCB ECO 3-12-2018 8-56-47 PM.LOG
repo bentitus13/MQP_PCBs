@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TXD Pin=P1-3
+Removed Pin From Net: NetName=RXD Pin=P1-4
+Added Pin To Net: NetName=RXD Pin=P1-3
+Added Pin To Net: NetName=TXD Pin=P1-4
