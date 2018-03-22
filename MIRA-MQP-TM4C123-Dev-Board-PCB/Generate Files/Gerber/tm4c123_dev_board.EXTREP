@@ -1,17 +1,17 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: motor_driver_current_sensor.GBR   3/21/2018  9:46:50 PM
+Gerber File Extension Report For: tm4c123_dev_board.GBR   3/21/2018  9:20:32 PM
 ------------------------------------------------------------------------------------------
 
 
 ------------------------------------------------------------------------------------------
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
-.GBL                Bottom Layer                            
-.GTS                Top Solder                              
-.GTO                Top Overlay                             
 .GTL                Top Layer                               
-.GBS                Bottom Solder                           
+.GTS                Top Solder                              
+.GBL                Bottom Layer                            
+.GTO                Top Overlay                             
 .GBO                Bottom Overlay                          
+.GBS                Bottom Solder                           
 .GM1                Mechanical 1                            
 .GM13               Mechanical 13                           
 .GM15               Mechanical 15                           
