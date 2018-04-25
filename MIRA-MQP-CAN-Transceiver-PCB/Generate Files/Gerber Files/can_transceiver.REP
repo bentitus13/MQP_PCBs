@@ -2,14 +2,25 @@
 FileName = can_transceiver.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 13
-      File : can_transceiver.GM13
+Generating : Mechanical 15
+      File : can_transceiver.GM15
 
-    Adding Layer      : Mechanical 13
+    Adding Layer      : Mechanical 15
 
 
 Used DCodes :
     D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : can_transceiver.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -39,15 +50,66 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 15
-      File : can_transceiver.GM15
+Generating : Bottom Overlay
+      File : can_transceiver.GBO
 
-    Adding Layer      : Mechanical 15
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : can_transceiver.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : can_transceiver.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : can_transceiver.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : can_transceiver.GM13
+
+    Adding Layer      : Mechanical 13
 
 
 Used DCodes :
     D37
-    D38
 *************************************************************
 
 *************************************************************
@@ -70,30 +132,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : can_transceiver.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : can_transceiver.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
 Generating : Bottom Layer
       File : can_transceiver.GBL
 
@@ -112,10 +150,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : can_transceiver.GM1
+Generating : Keep-Out Layer
+      File : can_transceiver.GKO
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
@@ -144,32 +182,5 @@ Used DCodes :
     D34
     D35
     D36
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : can_transceiver.GD1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D39
-    D40
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : can_transceiver.GG1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D39
 *************************************************************
 

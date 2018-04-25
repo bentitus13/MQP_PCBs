@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: load_cell_amp.GBR   3/12/2018  7:50:56 PM
+Gerber File Extension Report For: load_cell_amp.GBR   4/13/2018  1:02:14 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -11,8 +11,9 @@ Layer Extension     Layer Description
 .GTO                Top Overlay                             
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
-.GM1                Mechanical 1                            
 .GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
 .GM13               Mechanical 13                           
 .GM15               Mechanical 15                           
 .GD1                Drill Drawing                           

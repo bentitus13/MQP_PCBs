@@ -71,6 +71,95 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LABXIFTS
 
+[Document3]
+DocumentPath=tm4c123_dev_board.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Generate Files\NC Drill\tm4c123_dev_board.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Generate Files\Gerber\tm4c123_dev_board.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Generate Files\Gerber\tm4c123_dev_board.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Generate Files\Gerber\tm4c123_dev_board.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Generate Files\Gerber\tm4c123_dev_board.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Generate Files\Gerber\tm4c123_dev_board.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Generate Files\Gerber\tm4c123_dev_board.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Generate Files\Gerber\tm4c123_dev_board.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Generate Files\Gerber\tm4c123_dev_board.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Generate Files\Gerber\tm4c123_dev_board.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Generate Files\Gerber\tm4c123_dev_board.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Generate Files\Gerber\tm4c123_dev_board.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Generate Files\Gerber\tm4c123_dev_board.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Generate Files\Gerber\tm4c123_dev_board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Generate Files\NC Drill\tm4c123_dev_board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Generate Files\Gerber\tm4c123_dev_board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Generate Files\Gerber\tm4c123_dev_board.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Generate Files\NC Drill\tm4c123_dev_board.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -80,6 +169,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

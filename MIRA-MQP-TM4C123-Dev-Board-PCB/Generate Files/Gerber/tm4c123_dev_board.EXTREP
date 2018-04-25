@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: tm4c123_dev_board.GBR   3/21/2018  9:20:32 PM
+Gerber File Extension Report For: tm4c123_dev_board.GBR   3/24/2018  8:24:24 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -7,11 +7,12 @@ Gerber File Extension Report For: tm4c123_dev_board.GBR   3/21/2018  9:20:32 PM
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
-.GTS                Top Solder                              
 .GBL                Bottom Layer                            
 .GTO                Top Overlay                             
-.GBO                Bottom Overlay                          
+.GTS                Top Solder                              
 .GBS                Bottom Solder                           
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
 .GM1                Mechanical 1                            
 .GM13               Mechanical 13                           
 .GM15               Mechanical 15                           

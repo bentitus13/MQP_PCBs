@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: can_transceiver.GBR   3/18/2018  2:06:13 PM
+Gerber File Extension Report For: can_transceiver.GBR   4/13/2018  12:56:47 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -7,12 +7,13 @@ Gerber File Extension Report For: can_transceiver.GBR   3/18/2018  2:06:13 PM
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
+.GTS                Top Solder                              
 .GBL                Bottom Layer                            
 .GTO                Top Overlay                             
-.GTS                Top Solder                              
 .GBS                Bottom Solder                           
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
+.GKO                Keep-Out Layer                          
 .GM13               Mechanical 13                           
 .GM15               Mechanical 15                           
 .GD1                Drill Drawing                           

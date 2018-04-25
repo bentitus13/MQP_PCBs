@@ -2,14 +2,13 @@
 FileName = motor_driver_current_sensor.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : motor_driver_current_sensor.GBO
+Generating : Keep-Out Layer
+      File : motor_driver_current_sensor.GKO
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D12
 *************************************************************
 
 *************************************************************
@@ -51,6 +50,30 @@ Generating : Mechanical 15
 Used DCodes :
     D45
     D46
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : motor_driver_current_sensor.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : motor_driver_current_sensor.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
 *************************************************************
 
 *************************************************************
@@ -109,6 +132,17 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Mechanical 13
+      File : motor_driver_current_sensor.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D45
+*************************************************************
+
+*************************************************************
 Generating : Top Layer
       File : motor_driver_current_sensor.GTL
 
@@ -138,30 +172,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 13
-      File : motor_driver_current_sensor.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D45
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : motor_driver_current_sensor.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-*************************************************************
-
-*************************************************************
 Generating : Drill Drawing
       File : motor_driver_current_sensor.GD1
 
@@ -171,6 +181,7 @@ Generating : Drill Drawing
 
 
 Used DCodes :
+    D12
     D47
     D48
 *************************************************************

@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: joint_board_boosterpack.PcbDoc   4/13/2018  9:50:25 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : joint_board_boosterpack.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.203mm)                                            Round             16        PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)                                             Round             8         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             25        PTH        0.00inch (0.00mm)
+T5      40mil (1.016mm)                                           Round             40        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              90
+
+Total Processing Time (hh:mm:ss) : 00:00:01

@@ -2,69 +2,6 @@
 FileName = load_cell_amp.GBR
 AutoAperture = True
 *************************************************************
-Generating : Drill Drawing
-      File : load_cell_amp.GD1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D38
-    D39
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : load_cell_amp.GG1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D38
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : load_cell_amp.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D36
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : load_cell_amp.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-*************************************************************
-
-*************************************************************
 Generating : Mechanical 15
       File : load_cell_amp.GM15
 
@@ -114,28 +51,31 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : load_cell_amp.GBO
+Generating : Drill Drawing
+      File : load_cell_amp.GD1
 
-    Adding Layer      : Bottom Overlay
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
 
 
 Used DCodes :
     D13
+    D38
+    D39
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : load_cell_amp.GTO
+Generating : Drill Guide
+      File : load_cell_amp.GG1
 
-    Adding Layer      : Top Overlay
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
+    D38
 *************************************************************
 
 *************************************************************
@@ -147,6 +87,52 @@ Generating : Mechanical 1
 
 Used DCodes :
     D36
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : load_cell_amp.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : load_cell_amp.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : load_cell_amp.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -171,5 +157,30 @@ Used DCodes :
     D33
     D34
     D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : load_cell_amp.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : load_cell_amp.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
 *************************************************************
 
